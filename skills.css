@@ -7,3 +7,12 @@ h1{
     font-size: 300%;
     text-align: center;
 }
+ul {
+    font-size: 200%;
+}
+p {
+    font-size: 175%;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
